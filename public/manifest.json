@@ -5,13 +5,13 @@
   "providedBy": { "name": "s.finance", "url": "https://s.finance/" },
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
+      "src": "./res/icons/logo/logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./img/icons/mstile-310x310.png",
+      "src": "./res/icons/logo/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -20,7 +20,7 @@
   "orientation": "portrait",
   "name": "sfinance",
   "description": "S.finance is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
-  "iconPath": "./public/favicon-24x24.svg",
+  "iconPath": "./res/icons/logo/logo.png",
   "short_name": "sfinance",
   "start_url": ".",
   "theme_color": "#ff007a",
